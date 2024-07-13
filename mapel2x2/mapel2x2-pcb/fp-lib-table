@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "MX_Alps_Hybrid")(type "KiCad")(uri "/home/fred/repos/fred/mapel_keebs/MX_Alps_Hybrid.pretty/MX_Alps_Hybrid.pretty")(options "")(descr ""))
+  (lib (name "USB4110GFA")(type "KiCad")(uri "/home/fred/repos/fred/mapel_keebs/USB4110GFA")(options "")(descr ""))
+  (lib (name "random-keyboard-parts")(type "KiCad")(uri "/home/fred/repos/fred/mapel_keebs/random-keyboard-parts.pretty")(options "")(descr ""))
+)

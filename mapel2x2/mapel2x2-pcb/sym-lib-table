@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "random-keyboard-parts")(type "Legacy")(uri "/home/fred/repos/fred/mapel_keebs/random-keyboard-parts.pretty/Schematic Library/random-keyboard-parts.lib")(options "")(descr ""))
+  (lib (name "MX_Alps_Hybrid")(type "Legacy")(uri "/home/fred/repos/fred/mapel_keebs/MX_Alps_Hybrid.pretty/Schematic Library/MX_Alps_Hybrid.lib")(options "")(descr ""))
+  (lib (name "USB4110GFA")(type "KiCad")(uri "/home/fred/repos/fred/mapel_keebs/USB4110GFA/USB4110GFA.kicad_sym")(options "")(descr ""))
+)
